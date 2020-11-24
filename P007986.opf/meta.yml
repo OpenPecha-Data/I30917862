@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W22327
   title: ལྷ་མོའི་ཤོ་མོ།
-  volume: ''
+  volume:
+    c16ff8665e68485f85f7c2ce5037e243:
+      image_group_id: I1PD36257
+      title: Volume 1 of lha mo'i sho mo
+      volume_number: 1
+      total_pages: 140
   author: ''
+ebook_metadata:
+  title: ལྷ་མོའི་ཤོ་མོ།
+  author: ''
+  sku: P007986
+  cover: cover.jpg
+  layers:
+  - pagination
