@@ -5,11 +5,12 @@ source_metadata:
   title: ལྷ་མོའི་ཤོ་མོ།
   author: ''
   volumes:
-    b5ef01228746496a94c21f704a958f6f:
+    c16ff8665e68485f85f7c2ce5037e243:
       image_group_id: I1PD36257
-      title: ''
+      title: Volume 1 of lha mo'i sho mo
       volume_number: 1
       total_pages: 140
+      base_file: v001.txt
 ebook_metadata:
   title: ལྷ་མོའི་ཤོ་མོ།
   author: ''
